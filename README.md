@@ -1,0 +1,1 @@
+# garmin-data. This script the data in .csv format that garmin connects offers for download. So far, it calculates average exercise time and speed of workouts. It also creates some basic plots. This is work in progress.
